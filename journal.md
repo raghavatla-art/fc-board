@@ -14,10 +14,21 @@
 
 ## OCTOBER 6 2026
 
-### WHAT I DID (TIME SPENT: 1:15 HOURS)
+### WHAT I DID (TIME SPENT: 1:30 HOURS)
 - FINISHED THE SENSOR SECTION OF MY CIRCUIT(ADDED BAROMETER)
 - DOWNLOADED SOME MORE FOOTPRINTS/SYMBOLS
 - ADDED THE SWD INTERFACE
 - ADDED THE USB PORT WITH ESD PROTECTION
 - ADDED THE 3.3V REGULATOR
 <img width="692" height="381" alt="Screenshot 2026-10-06 091915" src="https://github.com/user-attachments/assets/03accaed-caad-4061-9776-bfaa7d9c6ae9" />
+
+## OCTOBER 7 2026
+
+### WHAT I DID (TIME SPENT: 45 MINUTES)
+- CHANGED SOME VALUES
+- ASSIGNED THE FOOTPRINTS
+- ADDED OUTPUTS FOR THE ESC BOARD
+- FINALIZED THE FLIGHT CONTROLLER SCHEMATIC
+- DECIDED TO ALSO ADD A SEPERATE ESC BOARD
+<img width="1143" height="617" alt="Screenshot 2026-10-07 185754" src="https://github.com/user-attachments/assets/bb52a2d9-deb4-4dc4-8da2-60680c9c008f" />
+<img width="1128" height="681" alt="Screenshot 2026-10-07 175651" src="https://github.com/user-attachments/assets/6a55e44f-076c-4a3d-afb4-078ea748cd80" />
