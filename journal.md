@@ -27,8 +27,15 @@
 ### WHAT I DID (TIME SPENT: 45 MINUTES)
 - CHANGED SOME VALUES
 - ASSIGNED THE FOOTPRINTS
-- ADDED OUTPUTS FOR THE ESC BOARD
 - FINALIZED THE FLIGHT CONTROLLER SCHEMATIC
-- DECIDED TO ALSO ADD A SEPERATE ESC BOARD
+- PICKED PARTS FOR THE ESC SECTION
 <img width="1143" height="617" alt="Screenshot 2026-10-07 185754" src="https://github.com/user-attachments/assets/bb52a2d9-deb4-4dc4-8da2-60680c9c008f" />
 <img width="1128" height="681" alt="Screenshot 2026-10-07 175651" src="https://github.com/user-attachments/assets/6a55e44f-076c-4a3d-afb4-078ea748cd80" />
+
+## OCTOBER 7 2026
+
+### WHAT I DID (TIME SPENT:  1:00 HOUR)
+- ADDED THE GATE DRIVER
+- ADDED CAPACITOR CONNECTIONS TO THE DRV8323
+- MADE THE SIX MOSFET CONTROLL THE 3 PHASE MOTOR
+<img width="969" height="774" alt="Screenshot 2026-10-08 192303" src="https://github.com/user-attachments/assets/0569e83a-c6be-4fa4-90d7-9f299d0e5c18" />
