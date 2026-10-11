@@ -49,3 +49,13 @@
 - YEA TODAY WAS LWK JUST MODIYING MY PROJECT IDEA
 <img width="597" height="661" alt="Screenshot 2026-10-09 202557" src="https://github.com/user-attachments/assets/68d98843-98f0-44ff-9b8a-56faf337b8a3" />
 
+## OCTOBER 11
+
+### WHAT I DID (TIME SPENT:  1:15 Hours)
+- POWER CIRCUITRY FOR THE ESC
+- MOSFET/GATE DRIVING FOR THE MOTORS
+- FINALIZED THE ESC
+- ASSIGNED FOOTPRINTS
+<img width="1054" height="632" alt="Screenshot 2026-10-11 195804" src="https://github.com/user-attachments/assets/e7d4cb9e-7b49-48da-b069-1d4fb7a026e4" />
+
+
