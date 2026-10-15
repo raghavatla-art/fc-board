@@ -60,7 +60,7 @@
 
 ## OCTOBER 15
 
-### WHAT I DID (TIME SPENT: 30 MINUTES)
+### WHAT I DID (TIME SPENT: 35 MINUTES)
 - LAID OUT THE COMPONENTS IN THE PCB EDITOR
 - <img width="730" height="516" alt="Screenshot 2026-10-15 181510" src="https://github.com/user-attachments/assets/ed66c62b-6de5-4570-b215-9b4f10caf3fc" />
 
