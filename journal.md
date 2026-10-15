@@ -51,11 +51,18 @@
 
 ## OCTOBER 11
 
-### WHAT I DID (TIME SPENT:  1:15 Hours)
+### WHAT I DID (TIME SPENT:  1:15 HOURS)
 - POWER CIRCUITRY FOR THE ESC
 - MOSFET/GATE DRIVING FOR THE MOTORS
 - FINALIZED THE ESC
 - ASSIGNED FOOTPRINTS
 <img width="1054" height="632" alt="Screenshot 2026-10-11 195804" src="https://github.com/user-attachments/assets/e7d4cb9e-7b49-48da-b069-1d4fb7a026e4" />
+
+## OCTOBER 15
+
+### WHAT I DID (TIME SPENT: 30 MINUTES)
+- LAID OUT THE COMPONENTS IN THE PCB EDITOR
+- <img width="730" height="516" alt="Screenshot 2026-10-15 181510" src="https://github.com/user-attachments/assets/ed66c62b-6de5-4570-b215-9b4f10caf3fc" />
+
 
 
