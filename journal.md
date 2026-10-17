@@ -64,5 +64,13 @@
 - LAID OUT THE COMPONENTS IN THE PCB EDITOR
 - <img width="730" height="516" alt="Screenshot 2026-10-15 181510" src="https://github.com/user-attachments/assets/ed66c62b-6de5-4570-b215-9b4f10caf3fc" />
 
+## OCTOBER 16
+
+### WHAT I DID (TIME SPENT: 45 MINUTES)
+- HAD TO RESTART BECAUSE I MESSED UP
+- REDID FOOTRPINTS BECAUSE SOME OF THEM WERE WRONG
+- REMOVED SOME REDUNTANT DECOUPLING CAPCITORS
+- TRACED THE DECOUPLING CAPCITORS AND HIGH SPEED OSCILLATOR<img width="1045" height="714" alt="Screenshot 2026-10-17 190012" src="https://github.com/user-attachments/assets/75dfb6cc-66d9-457f-846a-c00d29802b8b" />
+
 
 
